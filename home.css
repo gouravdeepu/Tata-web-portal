@@ -1,0 +1,164 @@
+#navbar{
+  top: 0;
+  left: 0;
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 100%;
+}
+#nav-ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  top: 0;
+  background-color:#384354 ;
+  width: 100%;
+}
+li{
+  padding: 15px;
+  margin-right: 50px;
+  font-size: 20px;
+  font-style: poppins;
+  font-color: white;
+text-decoration: none;
+}
+a{
+color: white;
+text-decoration: none;
+}
+a:hover{
+font-weight: bold;
+}
+section{
+margin-top: 0px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+grid-template-row:
+  grid-gap: 10px;
+  background-color: white;
+  padding: 0px;
+}
+
+.item1{
+
+
+}
+#view{
+color: #2E64FE;
+margin-left: 180px;
+width: 100%;
+}
+
+
+#acc{
+font-size: 30px;
+margin-left: 100px;
+width: 100%;
+}
+
+
+#want{
+margin-left: 100px;
+width: 100%;}
+
+
+#img{
+width: 85%;}
+
+#new{
+margin-top: 200px;}
+
+
+#shop{
+margin-top: 10px;
+padding: 10px;
+color: white;
+background-color: #08298A;
+}
+
+
+#apple{
+margin-left: 50px;}
+
+#color{
+background-color: #58D3F7;
+}
+.grid-container1{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  background-color: #08298A;
+  padding: 10px;
+}
+.grid-container1 > div {
+  background-color: white;
+text-align: center;
+margin-left: 60px;
+margin-right: 60px;
+margin-top: 0px;
+}
+
+.grid-container2{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  background-color: #08298A;
+  padding: 10px;
+}
+.grid-container2 > div {
+  background-color: white;
+text-align: center;
+margin-left: 60px;
+margin-right: 60px;
+margin-top: 0px;
+}
+
+
+#collection{
+font-size: 20px;
+color: #e98c60;
+text-align: center;
+text-decoration: underline dotted #e98c60;
+margin-top: 50px;
+margin-bottom: 40px;
+padding: 16px;
+}
+
+#bags{
+color: #2E64FE;
+}
+
+#bag{
+font-size: 13px;}
+
+#foot{
+background-color: #0B0B61;
+margin-top: 50px;
+}
+
+#foot1{
+
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  top: 0;
+}
+
+#foot2{
+padding: 2px;
+font-size: 15px;
+margin-right: 200px;
+color: #FFFFFF;
+}
+
+#view1{
+color: #2ECCFA;
+}
+

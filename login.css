@@ -1,0 +1,61 @@
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+.cancel{
+margin-left: 20px;
+width: auto;
+padding: 10px 20px;
+background-color: #f44336;
+}
+.img{
+text-align: center;
+margin:20px 0 10px 0;
+}
+.login-img{
+width: 20%;
+border-radius: 50%;
+height : 40%;
+}
+span.psw{
+float: right;
+margin-right: 20px;
+padding-top: 15px;
+}
+
+.up{
+width: 100%;
+padding: 10px;
+margin: 10px;
+display: inline-block;
+border: 1px solid #ddd;
+box-sizing: border-box;
+}
+
+.up1{
+margin: 10px;
+}
+
+#form{
+border: 5px solid;
+border-color: #f1f1f1;
+}
+#user
+{
+text-align: center;
+}
+.boxes
+{
+margin: 50px auto 50px auto;
+width: 50%;
+}
+

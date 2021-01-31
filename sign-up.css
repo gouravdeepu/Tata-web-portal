@@ -1,0 +1,58 @@
+#b{
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpz34LgDPJbiEpL-fDRdPcWVvDsu5s2JGtKEoS8gfgnerFjfXc&usqp=CAU');
+background-repeat: no-repeat;
+background-size: cover;
+border: 10px;
+}
+.sign{
+text-align: center;
+
+}
+.l1{
+width: 50%;
+padding: 10px;
+margin-left: 350px;
+margin-right: 350px;
+display: inline-block;
+}
+.l2{
+width: 50%;
+margin: 0 350px;
+padding: 20px;
+display: inline-block;
+border: none;
+}
+.fill{
+text-align: center;
+
+}
+.confirm{
+background-color: #4caf50;
+color: white;
+padding: 15px;
+margin: 8px 0;
+width: 40%;
+cursor: pointer;
+
+}
+.confirm:hover{
+opacity: 0.7;
+}
+
+.check{
+margin-left: 350px;
+font-size: 30px;
+padding: 10px;
+}
+
+.agree{
+margin-left: 350px;
+}
+
+.img{
+filter: blur(10px);
+}
+
+.box{
+text-align: center;
+}
